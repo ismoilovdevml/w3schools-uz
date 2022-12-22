@@ -103,11 +103,11 @@ const config = {
             ],
           },
           {
-            title: 'Bsohqa',
+            title: 'Boshqa',
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                href: 'https://ismoilovdev.vercel.app/',
               },
               {
                 label: 'GitHub',
@@ -116,7 +116,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Mualliflik huquqi © ${new Date().getFullYear()} CyberAcademyuz 2023`,
+        copyright: `Mualliflik huquqi CyberAcademyuz © ${new Date().getFullYear()}`,
       },
       prism: {
         theme: lightCodeTheme,

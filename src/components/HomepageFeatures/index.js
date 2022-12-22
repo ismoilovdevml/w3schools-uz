@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Ko'p dasturlash tillari va dastur;ash texnogiyalari o'rgnaish qo'llanmasi
+        Ko'p dasturlash tillari va dasturlash texnologiyalarini o'rganish qo'llanmasi
         o'zbek tilida yozilib chiqilid. 
       </>
     ),
@@ -18,7 +18,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Bu loyiha orqali bilimingizni oshiring yangi texnogoyilarni o'rganing.
+        Bu loyiha orqali bilimingizni oshiring yangi texnogiyalarni o'rganing.
         Hammasi bepul va o'zbek tilida
       </>
     ),
@@ -29,7 +29,7 @@ const FeatureList = [
     description: (
       <>
        Ushbu loyiha CyberAcademy-uz tomonidan ishlab chiqiligan va boshqarilib 
-       boriladi. Loyiha Open Source bo'lib siz xam loyiha o'z hissangini qo'shishingiz mumkin
+       boriladi. Loyiha Open Source bo'lib siz xam loyihaga o'z hissangini qo'shishingiz mumkin
       </>
     ),
   },
