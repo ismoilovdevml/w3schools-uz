@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Dasturlashni o\'zbek tilida o\'rganing',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Ko'p dasturlash tillari va dastur;ash texnogiyalari o'rgnaish qo'llanmasi
+        o'zbek tilida yozilib chiqilid. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Rivojlanish vaqti keldi',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Bu loyiha orqali bilimingizni oshiring yangi texnogoyilarni o'rganing.
+        Hammasi bepul va o'zbek tilida
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'CyberAcademyuz tomidan tuzildi',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       Ushbu loyiha CyberAcademy-uz tomonidan ishlab chiqiligan va boshqarilib 
+       boriladi. Loyiha Open Source bo'lib siz xam loyiha o'z hissangini qo'shishingiz mumkin
       </>
     ),
   },
