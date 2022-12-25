@@ -21,18 +21,21 @@ const sidebars = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'Basics',
+      label: 'HTML',
       items: ['HTML/kirish'],
     },
     {
       type: 'category',
-      label: 'Basics',
+      label: 'CSS',
       items: ['CSS/kirish'],
     },
     {
       type: 'category',
-      label: 'Basics',
-      items: ['RWD/kirish'],
+      label: 'RWD',
+      items: [
+        'RWD/kirish', 
+        'RWD/test',
+      ],
     },
   ],
 };
