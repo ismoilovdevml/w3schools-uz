@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         Ko'p dasturlash tillari va dasturlash texnologiyalarini o'rganish qo'llanmasi
-        o'zbek tilida yozilib chiqilid. 
+        o'zbek tilida yozib chiqildi. 
       </>
     ),
   },
@@ -28,8 +28,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-       Ushbu loyiha CyberAcademy-uz tomonidan ishlab chiqiligan va boshqarilib 
-       boriladi. Loyiha Open Source bo'lib siz xam loyihaga o'z hissangini qo'shishingiz mumkin
+       Ushbu loyiha CyberAcademy-uz tomonidan ishlab chiqilgan va boshqarib 
+       boriladi. Loyiha Open Source bo'lib siz ham loyihaga o'z hissangizni qo'shishingiz mumkin
       </>
     ),
   },
